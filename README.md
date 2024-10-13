@@ -11,7 +11,3 @@ Exiftool is a powerful and flexible command-line application for reading, writin
  'exiftool -all= picture.png'
  
 ![alt text](image-2.png)
-
-
-
-![alt text](image.jpeg)
